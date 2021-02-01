@@ -1,0 +1,14 @@
+{
+  "name": "mini-pack",
+  "version": "1.0.0",
+  "description": "simple bundle",
+  "main": "index.js",
+  "author": "Evannn",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/parser": "^7.12.11",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/traverse": "^7.12.12"
+  }
+}
